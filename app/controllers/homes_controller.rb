@@ -7,3 +7,4 @@ class HomesController < ApplicationController
 
 
 end
+
